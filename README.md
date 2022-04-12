@@ -8,12 +8,11 @@
 
 <h3 align="center">A passionate, hardworking and highly efficient web developer with sound knowledge in Full Stack technology and hands-on practice in Data Structure and Algorithms.</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-singhal-a238b513b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manoranjan-sethi-89a163197/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-fawn-omega.vercel.app/)
 - 😄 Pronouns: He/His
 - 📫 How to reach me **dasb1283@gmail.com** 
 - ⚡ Fun fact **Time, Tide and JavaScript waits for none.**
-- 📑 Know More About [Me](https://drive.google.com/file/d/1M4rW3s13FetK9tcvSTzr50MOwiJ5WNge/view?usp=sharing)
 
 
 ### Languages & Tech
