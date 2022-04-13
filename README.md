@@ -46,7 +46,7 @@
 
  
 
-[![Manoranjan's github activity graph](https://activity-graph.herokuapp.com/graph?username=BiswajitDas1802&theme=react-dark)](https://github.com/Manoranjan-Sethi/github-readme-activity-graph)
+[![Manoranjan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Manoranjan-Sethi&theme=react-dark)](https://github.com/Manoranjan-Sethi/github-readme-activity-graph)
 
  
 
