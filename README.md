@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">, I'm Manoranjan Sethi</h1>
 
 <div align='center'>
-    <img   src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"
+    <img   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
         alt="code"
       />
    </div>
