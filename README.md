@@ -28,9 +28,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manoranjan-Sethi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Manoranjan-Sethi" /></p>
 <br>
 
- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manoranjan-sethi&label=Profile%20views&color=0e75b6&style=flat" alt="manoranjan-sethi" /> </p>
 
- 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manoranjan-sethi" alt="manoranjan-sethi" /></a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manoranjan-sethi&show_icons=true&locale=en&layout=compact" alt="manoranjan-sethi" /></p>
 
 [![Manoranjan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Manoranjan-Sethi&theme=react-dark)](https://github.com/Manoranjan-Sethi/github-readme-activity-graph)
 
