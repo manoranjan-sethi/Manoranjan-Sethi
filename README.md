@@ -22,10 +22,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manoranjan-Sethi&show_icons=true&locale=en&theme=radical" alt="Manoranjan-Sethi" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manoranjan-Sethi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Manoranjan-Sethi" /></p>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoranjan-sethi&label=Profile%20views&color=0e75b6&style=flat" alt="manoranjan-sethi" /> </p>
