@@ -1,40 +1,67 @@
-<h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">, I'm Manoranjan Sethi</h1>
+<h1 align="center">Hi there! I'm Manoranjan Sethi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+ <br> 
+ 
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
 
-<div align='center'>
-    <img   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-        alt="code"
+### 👨🏻‍💻 About Me:
+
+<img   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+       height="250px" align="right"
       />
-   </div>
 
-<h3 align="center">A passionate, hardworking and highly efficient web developer with sound knowledge in Full Stack technology and hands-on practice in Data Structure and Algorithms.</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manoranjan-sethi-89a163197/)
-- 😄 Pronouns: He/His
-- 📫 How to reach me **manoranjansethi97@gmail.com** 
+- 🙋‍♂️ All about me is at **[My Website](https://manoranjan-sethi.netlify.app)**
+
+- 🌱 I’m currently learning `MERN Stack`
+
+- 👯 I’m looking to collaborate for `Projects`
+
+- 💓 I love designing websites and coding.
+
 - ⚡ Fun fact **Time, Tide and JavaScript waits for none.**
 
+- 📫 How to reach me **manoranjansethi97@gmail.com**
 
-### Languages & Tech
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="130px" height="40px"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="130px" height="40px"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="130px" height="40px"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="130px" height="40px"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="130px" height="40px"/> 
-
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="130px" height="40px"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="130px" height="40px"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" width="130px" height="40px"/> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" width="130px" height="40px"/> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" width="130px" height="40px"/>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manoranjan-Sethi&show_icons=true&locale=en&theme=radical" alt="Manoranjan-Sethi" /></p>
 <br>
+<h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,bootstrap,express,jquery,materialui,mongodb,nodejs," />
+  </a>
+</p>
+<!-- <img src="" alt="" /> -->
+<h2 align="center"><i>Tools | Use</i></h2>
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,heroku,netlify,powershell,vscode,visualstudio," />
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manoranjan-sethi&label=Profile%20views&color=0e75b6&style=flat" alt="manoranjan-sethi" /> </p>
+<h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manoranjan-sethi" alt="manoranjan-sethi" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manoranjan-sethi&show_icons=true&locale=en&layout=compact" alt="manoranjan-sethi" /></p>
-
-[![Manoranjan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Manoranjan-Sethi&theme=react-dark)](https://github.com/Manoranjan-Sethi/github-readme-activity-graph)
-
- 
-
-
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/manoranjan-sethi/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a title="manoranjansethi97@gmail.com" href="mailto:manoranjansethi97@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
+  <a href="https://wa.me/917789014020" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
+<a href="https://twitter.com/manoranjan_97" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  alt="portfolio" /></a>
+</p>
+<h2>📊  Github Stats</h2>
 <br/>
+
+<div>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Manoranjan-Sethi&show_icons=true&theme=midnight-purple" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoranjan-Sethi&layout=compact&theme=midnight-purple" />
+</div>
+ <br />
+<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Manoranjan-Sethi&theme=rogue" alt="activitygraph" /> </p>
+<br />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Manoranjan-Sethi&theme=vision-friendly-dark" alt=""/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Manoranjan-Sethi&no-frame=true" alt=""/></p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manoranjan-Sethi&theme=tokyonight" alt="summarycard"/> </p>
+
+<hr />
+
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
+<br>
