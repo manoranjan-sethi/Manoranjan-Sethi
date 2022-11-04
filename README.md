@@ -2,6 +2,9 @@
  <br> 
  
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
+ 
+ 
+ <h3 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h3>
 
 ### 👨🏻‍💻 About Me:
 
