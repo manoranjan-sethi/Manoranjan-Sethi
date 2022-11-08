@@ -5,6 +5,8 @@
  
  
  <h3 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h3>
+ 
+ <h4 align="center">"Programming is not a science. Programming is a craft" -Richard Stallman</h4>
 
 ### 👨🏻‍💻 About Me:
 
