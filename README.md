@@ -17,10 +17,6 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://manoranjan-sethi.netlify.app)**
 
-- 🌱 I’m currently learning `MERN Stack`
-
-- 👯 I’m looking to collaborate for `Projects`
-
 - 💓 I love designing websites and coding.
 
 - 👨‍💻 Interests - Web 3.0, Dapps, Blockchain
