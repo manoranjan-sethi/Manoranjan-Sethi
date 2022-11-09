@@ -11,7 +11,7 @@
 ### 👨🏻‍💻 About Me:
 
 <img   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-       height="250px" align="right"
+       height="220px" align="right"
       />
 
 
