@@ -61,7 +61,7 @@
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoranjan-Sethi&layout=compact&theme=midnight-purple" />
 </div>
  <br />
-<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Manoranjan-Sethi&theme=rogue" alt="activitygraph" /> </p>
+<!-- <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Manoranjan-Sethi&theme=rogue" alt="activitygraph" /> </p> -->
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Manoranjan-Sethi&theme=vision-friendly-dark" alt=""/></p>
 <!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Manoranjan-Sethi&no-frame=true" alt=""/></p> -->
