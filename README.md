@@ -41,7 +41,7 @@
 <h2 align="center"><i>Tools | Use</i></h2>
 <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,heroku,netlify,powershell,vscode,visualstudio," />
+    <img src="https://skillicons.dev/icons?i=bash,firebase,git,github,heroku,netlify,powershell,vscode,aws,azure" />
   </a>
 </p>
 
