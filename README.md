@@ -1,10 +1,10 @@
 <h1 align="center">Hi there! I'm Manoranjan Sethi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br> 
  
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Currently+Learning+DevOps;Proficient+in+both+Azure+&+AWS;Nice+to+meet+you...) 
  
  
- <h3 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h3>
+ <h3 align="center" margin="0px">I am a DevOps Engineer, passionate about streamlining software delivery, enhance collaboration, and drive continuous improvement.</h3>
  
 
 
@@ -12,10 +12,10 @@
 
 <img   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
        height="200px" width="auto" align="right"
-      />
+      /> 
 
 
-- 🙋‍♂️ All about me is at **[My Website](https://manoranjan-sethi.netlify.app)**
+<!-- - 🙋‍♂️ All about me is at **[My Website](https://manoranjan-sethi.netlify.app)** -->
 
 - 💓 I love designing websites and coding.
 
