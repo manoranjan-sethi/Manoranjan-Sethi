@@ -56,9 +56,9 @@
 <h2>📊  Github Stats</h2>
 <br/>
 
-<div>
+<div display="flex">
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Manoranjan-Sethi&show_icons=true&theme=midnight-purple" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoranjan-Sethi&layout=compact&theme=midnight-purple" />
+  <img width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoranjan-Sethi&layout=compact&theme=midnight-purple" />
 </div>
  <br />
 <!-- <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Manoranjan-Sethi&theme=rogue" alt="activitygraph" /> </p> -->
