@@ -16,14 +16,14 @@
 
 
 <!-- - 🙋‍♂️ All about me is at **[My Website](https://manoranjan-sethi.netlify.app)** -->
+- 💻 I love automating workflows and building reliable, scalable systems.
 
-- 💓 I love designing websites and coding.
+- 🔧 Interests - CI/CD, Kubernetes, Cloud Infrastructure, DevSecOps.
 
-- 👨‍💻 Interests - Web 3.0, Dapps, Blockchain
+- 🚀 Fun fact: "In DevOps, automation isn't just a tool; it's a lifestyle."
 
-- ⚡ Fun fact **Time, Tide and JavaScript waits for none.**
+- 📫 How to reach me: **manoranjansethi97@gmail.com**
 
-- 📫 How to reach me **manoranjansethi97@gmail.com**
 
 <br>
 <br>
