@@ -58,13 +58,14 @@
 
 <div display="flex">
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Manoranjan-Sethi&show_icons=true&theme=midnight-purple" />
-  <img width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoranjan-Sethi&layout=compact&theme=midnight-purple" />
+  <img width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoranjan-Sethi&layout=compact&theme=radical" />
 </div>
  <br />
-<!-- <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Manoranjan-Sethi&theme=rogue" alt="activitygraph" /> </p> -->
+<!-- Optional: Add a visitor badge -->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Manoranjan-Sethi&color=blueviolet&style=flat-square" alt="Visitor Count" /></a></p>
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Manoranjan-Sethi&theme=vision-friendly-dark" alt=""/></p>
-<!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Manoranjan-Sethi&no-frame=true" alt=""/></p> -->
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Manoranjan-Sethi&no-frame=true" alt=""/></p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manoranjan-Sethi&theme=tokyonight" alt="summarycard"/> </p>
 
 <hr />
