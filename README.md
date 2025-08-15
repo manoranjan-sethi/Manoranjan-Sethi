@@ -28,7 +28,7 @@
 </a>
 </p>
 
-<h2 align="center"><i>Languages and Tools <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100"/></i></h2>
+<h2 align="center"><i>Languages and Tools/></i></h2>
 <p align="center">
 <a >
 <img src="https://skillicons.dev/icons?i=bash,powershell,python,git,github,githubactions,linux,vscode" />
