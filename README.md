@@ -18,7 +18,7 @@
 <br>
 <br>
 
-<h4 align="center">"It's not just about writing code—it's about building and securing the systems that run it all." - <i>Manoranjan Sethi</i></h4>
+<h4 align="center">"It's not just about writing code—it's about building and securing the systems that run it all."</h4>
 
 <br>
 <h2 align="center"><i>DevOps and Cloud Tech Stack</i></h2>
