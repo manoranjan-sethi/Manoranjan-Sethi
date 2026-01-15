@@ -41,12 +41,12 @@
 <a href="https://wa.me/917789014020" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px" alt="whatsapp-me" /></a>
 <a href="https://twitter.com/manoranjan_97" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="portfolio" /></a>
 </p>
-<h2>📊 Github Stats</h2>
+<!-- <h2>📊 Github Stats</h2>
 <br/>
 
-<div display="flex">
+<!-- <div display="flex">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Manoranjan-Sethi&show_icons=true&theme=midnight-purple" />
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoranjan-Sethi&layout=compact&theme=radical" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoranjan-Sethi&layout=compact&theme=radical" /> -->
 </div>
 <br />
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Manoranjan-Sethi&color=blueviolet&style=flat-square" alt="Visitor Count" /></a></p>
