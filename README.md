@@ -45,8 +45,14 @@
 <br/>
 
 <!-- <div display="flex">
+
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Manoranjan-Sethi&show_icons=true&theme=midnight-purple" />
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoranjan-Sethi&layout=compact&theme=radical" /> -->
+<h2 align="center">📊 Languages Used </h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoranjan-sethi&layout=compact&theme=radical" />
+</p>
 </div>
 <br />
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Manoranjan-Sethi&color=blueviolet&style=flat-square" alt="Visitor Count" /></a></p>
